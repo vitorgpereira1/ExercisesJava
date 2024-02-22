@@ -1,4 +1,4 @@
-package exercicios.estrutura_sequencial;
+package exercises.sequential_structure;
 import java.util.Scanner;
 public class exercise5 {
     public static void main(String[] args) {
