@@ -17,5 +17,7 @@ public class exercise5 {
 
         double amountToPay = (pieceNumber1 * pieceValue1) + (pieceNumber2 * pieceValue2);
         System.out.printf("Total amount payable: R$ %.2f", amountToPay);
+
+        scanner.close();
     }
 }
