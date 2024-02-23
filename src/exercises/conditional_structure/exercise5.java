@@ -10,7 +10,7 @@ public class exercise5 {
         //Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
         //seguir, calcule e mostre o valor da conta a pagar
 
-        /*Itens:
+        /*Items:
         1 - Hotdog = 4,00
         2 - X-Salad = 4,50
         3 - X-Bacon = 5,00
