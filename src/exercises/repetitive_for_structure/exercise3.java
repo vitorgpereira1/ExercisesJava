@@ -10,10 +10,16 @@ public class exercise3 {
         //conjuntos de 3 valores, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem
         //peso 5.
 
-        int valueN = scanner.nextInt();
+        int N = scanner.nextInt();
 
-        for (){
-            
+        for (int cont = 0; cont < N; cont++){
+
+            double value1 = scanner.nextDouble();
+            double value2 = scanner.nextDouble();
+            double value3 = scanner.nextDouble();
+
+            double average = (value1 * 2.0 + value2 * 3.0 + value3 * 5.0) / 10;
+            System.out.printf("%.1f ",average);
         }
 
         scanner.close();
