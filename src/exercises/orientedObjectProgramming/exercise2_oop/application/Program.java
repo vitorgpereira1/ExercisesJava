@@ -1,4 +1,4 @@
-package exercises.orientedObjectProgramming.exercise2_oop.program;
+package exercises.orientedObjectProgramming.exercise2_oop.application;
 
 import exercises.orientedObjectProgramming.exercise2_oop.entities.Rectangle;
 
