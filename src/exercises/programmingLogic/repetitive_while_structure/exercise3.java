@@ -1,4 +1,4 @@
-package exercises.repetitive_while_structure;
+package exercises.programmingLogic.repetitive_while_structure;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package exercises.conditional_structure;
+package exercises.programmingLogic.conditional_structure;
 
 import java.util.Scanner;
 

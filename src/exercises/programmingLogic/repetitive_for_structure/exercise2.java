@@ -1,4 +1,4 @@
-package exercises.repetitive_for_structure;
+package exercises.programmingLogic.repetitive_for_structure;
 
 import java.util.Scanner;
 

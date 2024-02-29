@@ -1,4 +1,4 @@
-package exercises.sequential_structure;
+package exercises.programmingLogic.sequential_structure;
 import java.util.Scanner;
 public class exercise5 {
     public static void main(String[] args) {

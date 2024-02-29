@@ -1,4 +1,4 @@
-package exercises.sequential_structure;
+package exercises.programmingLogic.sequential_structure;
 
 import java.util.Locale;
 import java.util.Scanner;
